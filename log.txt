@@ -1,0 +1,8 @@
+aServer started trueServer started true
+Server started true
+Server stopped false
+Server started true
+Алия Султанова: asdasscasc
+Павел Кирилов: ascascac
+Мария Шарапова: acascascca
+Server stopped false
